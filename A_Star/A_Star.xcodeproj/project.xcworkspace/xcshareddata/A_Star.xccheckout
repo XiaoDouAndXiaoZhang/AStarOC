@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A3A66753-AEE5-429E-8D48-27751C609A1E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>A_Star</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FEFAAE3E-A13A-4D3C-9DBF-12B1076C802B</key>
+		<string>https://github.com/XiaoDouAndXiaoZhang/AStarOC.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>A_Star/A_Star.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FEFAAE3E-A13A-4D3C-9DBF-12B1076C802B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/XiaoDouAndXiaoZhang/AStarOC.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FEFAAE3E-A13A-4D3C-9DBF-12B1076C802B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FEFAAE3E-A13A-4D3C-9DBF-12B1076C802B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SelfSpace</string>
+		</dict>
+	</array>
+</dict>
+</plist>
